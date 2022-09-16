@@ -1,1 +1,3 @@
-# company-hirearchy-from-json
+# hirearchy-from-json
+
+Build and print hirearchy from json mappings
